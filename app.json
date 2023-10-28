@@ -8,8 +8,8 @@
         "Telegram ",
         "Pyrogram "
     ],
-    
-    "env": {
+   
+"env": {
     "API_ID": {
       "description": "Enter your API_ID, get it from my.telegram.org/apps",
       "required": true
